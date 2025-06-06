@@ -1,2 +1,2 @@
 # python-intern
-python internship about hangman game chatbot stockmarket tracker
+python internship about hangman game,chatbot,stockmarket tracker.
